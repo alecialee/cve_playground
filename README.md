@@ -6,5 +6,5 @@ My Python script get_exploits.py, pulls data from the GitHub Security Lab repo. 
 CVE and prints the first paragraph as well. 
 
 Important links:
-[GitHub CVE Project](https://github.com/CVEProject) <br>
+<br>[GitHub CVE Project](https://github.com/CVEProject) <br>
 [GitHub Advisory Database](https://github.com/advisories)
